@@ -45,4 +45,4 @@ Feito com ❤️ por Kauã Felipe 🚀🚀🚀
 [![Gmail Badge](https://img.shields.io/badge/-kauafelipeoficial191@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kauafelipeoficial191@gmail.com)](mailto:kauafelipeoficial191@gmail.com)
 
 ## License
-Este projeto pode ser usado por qualquer um! Licença MIT‎
+Este projeto pode ser usado por qualquer um! Licença <a href="https://github.com/Naereen/StrapDown.js/blob/master/LICENSE">MIT</a>
