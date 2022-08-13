@@ -20,12 +20,12 @@ Aula prática do curso: Introdução ao jQuery e Ajax da Digital Innovation One
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [HTML5](https://www.w3schools.com/html/)
-- [CSS3](https://www.w3schools.com/Css/)
-- [JavaScript](https://www.javascript.com/)
-- [Jquery](https://jquery.com/)
-- [Ajax](https://www.w3schools.com/xml/ajax_intro.asp)
-- [Bootstrap](https://getbootstrap.com/)
+- <img style="width: 20px" src="https://cdn-icons-png.flaticon.com/512/174/174854.png" /> [HTML5](https://www.w3schools.com/html/)
+- <img style="width: 20px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" /> [CSS3](https://www.w3schools.com/Css/)
+- <img style="width: 20px" src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" /> [JavaScript](https://www.javascript.com/)
+- <img style="width: 20px" src="https://jquery.com/jquery-wp-content/themes/jquery.com/i/favicon.ico" /> [Jquery](https://jquery.com/)
+- <img style="width: 20px" src="https://cdn-icons.flaticon.com/png/512/1183/premium/1183639.png?token=exp=1660426943~hmac=3b093a23a25fc53ad48bc5ae3d2066ea" />[Ajax](https://www.w3schools.com/xml/ajax_intro.asp)
+- <img style="width: 20px" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" /> [Bootstrap](https://cdn-icons-png.flaticon.com/512/5968/5968672.png)
 
 ## Autor
 
